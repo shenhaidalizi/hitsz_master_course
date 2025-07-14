@@ -1,4 +1,4 @@
-# 哈工深部分研究生课程资料
+# 哈工深计算机专硕部分研究生课程资料
 # HITSZ Graduate Course Materials
 
 Welcome to the collection of course materials from my graduate studies at HITSZ! This repository contains the materials from various advanced courses I’ve taken during my master's program, designed to assist fellow students in deepening their understanding of the subjects.
